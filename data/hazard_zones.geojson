@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Demo Flood Zone" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [76.2625, 9.9335],
+            [76.2700, 9.9335],
+            [76.2700, 9.9280],
+            [76.2625, 9.9280],
+            [76.2625, 9.9335]
+          ]
+        ]
+      }
+    }
+  ]
+}
